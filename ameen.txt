@@ -1,0 +1,2 @@
+garage code :ameen reda ameen 
+the price for car with ID 1 is 40.0
